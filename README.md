@@ -9,8 +9,8 @@
   <div>
   <a href="https://github.com/Gabrielbonada"> 
 <div style="display: flex; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbonada&show_icons=true&theme=onedark&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbonada&layout=compact&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBonada1&show_icons=true&theme=onedark&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBonada1&layout=compact&theme=onedark" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
